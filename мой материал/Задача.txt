@@ -1,0 +1,11 @@
+# Считать данныt из файлов name.xlsx и id.xlsx
+
+# Сделать выборку по первым 5 продуктам из name.xlsx в id.xlsx.
+
+
+# Записать результаты в базу данных.
+#   Для каждого продукта создать отдельную таблицу и записать в БД SQllite.
+#   Таблица должна содержать следующие колонки: rosstat_id,rosstat_name,price_name,price_url,date_add,date_last_crawl,date_last_in_stock,rosstat_id,contributor_id,store_id
+
+
+
